@@ -11,7 +11,7 @@ const WALL_HEIGHT = 600;
 const WALL_WIDTH = 400;
 const GRAVITY = 8;
 const OBJ_WIDTH = 52;
-const OBJ_SPEED = 8;
+const OBJ_SPEED = 6;
 const OBJ_GAP = 200;
 const BIRD_JUMP_HEIGHT = 70;
 
